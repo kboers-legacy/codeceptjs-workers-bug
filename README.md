@@ -1,0 +1,1 @@
+# codeceptjs-workers-bug
